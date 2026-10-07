@@ -1,5 +1,5 @@
 # Calidad de Software
-
+# Autor : Luis Arias
 Este repositorio está orientado a la materia de Calidad de Software y busca documentar conceptos básicos relacionados con la garantía de calidad en el desarrollo de software.
 
 ## Objetivo
